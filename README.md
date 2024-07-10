@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please contact us at [support@zippyurl.com](mailto:support@zippyurl.com).
+For any questions or suggestions, please contact us at [ramp00786@gmail.com](mailto:ramp00786@gmail.com).
 
 ---
 
