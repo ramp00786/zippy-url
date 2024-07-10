@@ -12,9 +12,13 @@ ZippyURL is a free URL shortening service built with Laravel. This application a
 - Analytics to track link performance
 - API integration for seamless use across platforms
 
+## Demo
+
+Check out the live demo: [ZippyURL Demo](https://pro.intactautomation.com/zippy-url/)
+
 ## Requirements
 
-- PHP >= 7.3
+- PHP >= 7.4
 - Composer
 - Laravel 8.x
 - MySQL
